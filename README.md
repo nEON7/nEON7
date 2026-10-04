@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nEON7
+- 👀 I’m interested in many things
+- 🌱 I’m currently learning well-being
+- 💞️ I’m looking to collaborate on anything IT related
+- 📫 How to reach me? Open an issue or start a discussion here on GitHub
